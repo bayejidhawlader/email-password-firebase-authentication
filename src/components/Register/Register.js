@@ -1,0 +1,29 @@
+import React from "react";
+
+const Register = () => {
+  return (
+    <div>
+      {/* <form onSubmit={handleRegister}>
+        <input
+          onBlur={handleEmailBlur}
+          type="email"
+          name="email"
+          id=""
+          placeholder="Email"
+        />
+        <br />
+        <input
+          onBlur={handelPasswordBlur}
+          type="password"
+          name="password"
+          id=""
+          placeholder="password"
+        />
+        <br />
+        <button type="submit">Register</button>
+      </form> */}
+    </div>
+  );
+};
+
+export default Register;
